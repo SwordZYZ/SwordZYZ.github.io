@@ -8,6 +8,7 @@
 
 #游戏相关
 .steampowered.com
+.sekai.colorfulpalette.org
 
 #杂项
 .bing.com
