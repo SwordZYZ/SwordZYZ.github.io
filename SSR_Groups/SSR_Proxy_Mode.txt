@@ -6,5 +6,8 @@
 .iqdb.org
 .tineye.com
 
+#游戏相关
+.steampowered.com
+
 #杂项
 .bing.com
