@@ -1,0 +1,10 @@
+#代理订阅相关
+.qiduo.eu.org
+
+#搜图相关
+.saucenao.com
+.iqdb.org
+.tineye.com
+
+#杂项
+.bing.com

@@ -1,0 +1,26 @@
+#视频
+.ppxia.live
+.xunlei.com
+
+# 微软服务器相关
+.login.live.com
+.onedrive.live.com
+.d.docs.live.net
+.onenote.com
+.officeapps.live.com
+
+#Apple服务器相关
+.music.apple.com
+.icloud.com.cn
+.itunes.apple.com
+.is.autonavi.com
+
+# 论坛相关
+.ngabbs.com
+.nga.178.com
+.bbs.nga.cn
+.saraba1st.com
+.p.sda1.dev
+
+#杂项
+.apps.atlasacademy.io
