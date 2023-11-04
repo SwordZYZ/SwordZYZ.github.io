@@ -55,3 +55,21 @@ IP-CIDR,203.104.209.7/32,JP
 # NAME: Project Sekai
 HOST-SUFFIX,sekai.colorfulpalette.org,JP
 
+# NAME: JAVDB
+HOST-SUFFIX,javdb.com,HK
+
+# NAME: Bahamut
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-10-07 14:20:13
+# HOST-SUFFIX: 7
+# USER-AGENT: 1
+# TOTAL: 8
+HOST-SUFFIX,bahamut.akamaized.net,TW
+HOST-SUFFIX,bahamut.com.tw,TW
+HOST-SUFFIX,digicert.com,TW
+HOST-SUFFIX,gamer.com.tw,TW
+HOST-SUFFIX,gvt1.com,TW
+HOST-SUFFIX,hinet.net,TW
+HOST-SUFFIX,viblast.com,TW
+USER-AGENT,Anime*,TW
