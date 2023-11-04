@@ -4,4 +4,3 @@
 .pbs.twimg.com
 .pximg.net
 .dmm.co.jp
-change test

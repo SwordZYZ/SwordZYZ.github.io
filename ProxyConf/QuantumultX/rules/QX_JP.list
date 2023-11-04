@@ -1,0 +1,56 @@
+# NAME: Pixiv
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-10-07 14:21:17
+# HOST-SUFFIX: 9
+# TOTAL: 9
+HOST-SUFFIX,ads-pixiv.net,JP
+HOST-SUFFIX,booth.pm,JP
+HOST-SUFFIX,fanbox.cc,JP
+HOST-SUFFIX,pixiv.cat,JP
+HOST-SUFFIX,pixiv.co.jp,JP
+HOST-SUFFIX,pixiv.me,JP
+HOST-SUFFIX,pixiv.net,JP
+HOST-SUFFIX,pixiv.org,JP
+HOST-SUFFIX,pximg.net,JP
+
+# NAME: DMM
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-10-07 14:22:22
+# HOST-SUFFIX: 28
+# IP-CIDR: 2
+# TOTAL: 30
+HOST-SUFFIX,akabeesoft2.com,JP
+HOST-SUFFIX,akabeesoft3.com,JP
+HOST-SUFFIX,akatsukiworks.com,JP
+HOST-SUFFIX,alicesoft.com,JP
+HOST-SUFFIX,api-p.videomarket.jp,JP
+HOST-SUFFIX,bluekai.com,JP
+HOST-SUFFIX,cosmiccute.com,JP
+HOST-SUFFIX,ddo.jp,JP
+HOST-SUFFIX,dmm-extension.com,JP
+HOST-SUFFIX,dmm.co.jp,JP
+HOST-SUFFIX,dmm.com,JP
+HOST-SUFFIX,dmm.hk,JP
+HOST-SUFFIX,dmmapis.com,JP
+HOST-SUFFIX,dmmrex.com,JP
+HOST-SUFFIX,fout.jp,JP
+HOST-SUFFIX,gmossp-sp.jp,JP
+HOST-SUFFIX,hibiki-site.com,JP
+HOST-SUFFIX,i-mobile.co.jp,JP
+HOST-SUFFIX,im-apps.net,JP
+HOST-SUFFIX,impact-ad.jp,JP
+HOST-SUFFIX,ladsp.com,JP
+HOST-SUFFIX,microad.co.jp,JP
+HOST-SUFFIX,microad.jp,JP
+HOST-SUFFIX,minori.ph,JP
+HOST-SUFFIX,navismithapis-cdn.com,JP
+HOST-SUFFIX,socdm.com,JP
+HOST-SUFFIX,tenco.cc,JP
+HOST-SUFFIX,wheel-soft.com,JP
+IP-CIDR,125.6.189.7/32,JP
+IP-CIDR,203.104.209.7/32,JP
+
+# NAME: Project Sekai
+HOST-SUFFIX,sekai.colorfulpalette.org,JP

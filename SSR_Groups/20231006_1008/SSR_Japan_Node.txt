@@ -1,6 +1,0 @@
-.pixiv.net
-.twitter.com
-.X.com
-.pbs.twimg.com
-.pximg.net
-.dmm.co.jp
