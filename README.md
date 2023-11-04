@@ -1,2 +1,2 @@
-# Person Blog&CloudDrive
+# Personal Blog&CloudDrive
 Learning how to use Github
