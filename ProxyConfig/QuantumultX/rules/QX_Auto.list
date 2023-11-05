@@ -52,9 +52,6 @@ HOST-SUFFIX,wheel-soft.com,JP
 IP-CIDR,125.6.189.7/32,JP
 IP-CIDR,203.104.209.7/32,JP
 
-# NAME: Project Sekai
-HOST-SUFFIX,sekai.colorfulpalette.org,HK
-
 # NAME: JAVDB
 HOST-SUFFIX,javdb.com,HK
 
