@@ -70,3 +70,6 @@ HOST-SUFFIX,gvt1.com,TW
 HOST-SUFFIX,hinet.net,TW
 HOST-SUFFIX,viblast.com,TW
 USER-AGENT,Anime*,TW
+
+#copymanga
+HOST-SUFFIX,mangafuna.xyz,HK
