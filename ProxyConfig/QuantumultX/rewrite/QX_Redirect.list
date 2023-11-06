@@ -1,11 +1,13 @@
-hostname =  bbs.nga.cn, nga.178.com, www.google.cn, www.g.cn
-
-# 谷歌域名重定向
+# Redirect
+## 谷歌域名重定向
 ^https?://(www\.)?g\.cn url 302 https://www.google.com
 ^https?://(www\.)?google\.cn url 302 https://www.google.com
 ^https?://(www\.)?google\.cn/search url 302 https://www.google.com/search
 
-# NGA重定向
+## NGA重定向
 ^https?:\/\/bbs\.nga\.cn url 302 https://ngabbs.com
 ^https?:\/\/nga\.178\.com url 302 https://ngabbs.com
 ^http:\/\/ngabbs\.com url 302 https://ngabbs.com
+
+# MITM
+hostname =  bbs.nga.cn, nga.178.com, www.google.cn, www.g.cn
