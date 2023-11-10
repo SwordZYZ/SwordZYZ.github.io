@@ -71,9 +71,9 @@ HOST-SUFFIX,hinet.net,TW
 HOST-SUFFIX,viblast.com,TW
 USER-AGENT,Anime*,TW
 
-#copymanga
+# NAME: Manga
 HOST-SUFFIX,mangafuna.xyz,HK
 
-#kemonoparty
+# NAME: Kemono Party
 HOST-SUFFIX,kemono.su,HK
 HOST-SUFFIX,kemono.party,HK
