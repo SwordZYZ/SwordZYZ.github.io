@@ -1,10 +1,10 @@
 # NAME: 订阅链接
-HOST-SUFFIX,sub.id9.cc,手动切换
-HOST-SUFFIX,sub.xeton.dev,手动切换
-HOST-SUFFIX,sub-api.ohmy.cat,手动切换
-HOST-SUFFIX,suo.yt,手动切换
+HOST-SUFFIX,sub.id9.cc,Manual
+HOST-SUFFIX,sub.xeton.dev,Manual
+HOST-SUFFIX,sub-api.ohmy.cat,Manual
+HOST-SUFFIX,suo.yt,Manual
 
 # NAME: Picture Search
-HOST-SUFFIX,saucenao.com,手动切换
-HOST-SUFFIX,iqdb.org,手动切换
-HOST-SUFFIX,tineye.com,手动切换
+HOST-SUFFIX,saucenao.com,Manual
+HOST-SUFFIX,iqdb.org,Manual
+HOST-SUFFIX,tineye.com,Manual
