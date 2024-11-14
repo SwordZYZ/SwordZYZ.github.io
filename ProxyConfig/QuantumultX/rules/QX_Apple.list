@@ -1,10 +1,10 @@
 # NAME: AppleMap
 # AUTHOR: SwordZYZ
 # REPO: https://github.com/SwordZYZ/SwordZYZ.github.io
-# UPDATED: 2024-11-13 18:26:25
-# HOST-SUFFIX: 2
+# UPDATED: 2024-11-15 00:28:12
+# HOST-SUFFIX: 3
 # IP-CIDR: 0
-# TOTAL: 2
+# TOTAL: 3
 HOST-SUFFIX,ls.apple.com,Apple
 HOST-SUFFIX,smoot.apple.com,Apple
 HOST-SUFFIX,time.apple.com,Apple
