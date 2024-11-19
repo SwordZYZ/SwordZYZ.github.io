@@ -1,8 +1,10 @@
 # NAME: 订阅链接
+HOST-SUFFIX,wexgc.com,Manual
 HOST-SUFFIX,sub.id9.cc,Manual
 HOST-SUFFIX,sub.xeton.dev,Manual
 HOST-SUFFIX,sub-api.ohmy.cat,Manual
 HOST-SUFFIX,suo.yt,Manual
+
 
 # NAME: Picture Search
 HOST-SUFFIX,saucenao.com,Manual
