@@ -11,3 +11,6 @@ HOST-SUFFIX,metrics.t3go.cn,direct
 # NAME: Yangshipin
 HOST-SUFFIX,yangshipin.cn,direct
 HOST-SUFFIX,cctv.cn,direct
+
+# NAME: China Mobile
+HOST-SUFFIX,10086.cn,direct
