@@ -10,3 +10,6 @@ HOST-SUFFIX,suo.yt,Manual
 HOST-SUFFIX,saucenao.com,Manual
 HOST-SUFFIX,iqdb.org,Manual
 HOST-SUFFIX,tineye.com,Manual
+
+# NAME: KONAMI
+HOST-SUFFIX,konami.net,Manual
