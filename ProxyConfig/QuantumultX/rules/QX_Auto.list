@@ -4,15 +4,15 @@
 # UPDATED: 2023-10-07 14:21:17
 # HOST-SUFFIX: 9
 # TOTAL: 9
-HOST-SUFFIX,ads-pixiv.net,JP_Auto
-HOST-SUFFIX,booth.pm,JP_Auto
-HOST-SUFFIX,fanbox.cc,JP_Auto
-HOST-SUFFIX,pixiv.cat,JP_Auto
+HOST-SUFFIX,ads-pixiv.net,HK_Auto
+HOST-SUFFIX,booth.pm,HK_Auto
+HOST-SUFFIX,fanbox.cc,HK_Auto
+HOST-SUFFIX,pixiv.cat,HK_Auto
 HOST-SUFFIX,pixiv.co.jp,JP_Auto
-HOST-SUFFIX,pixiv.me,JP_Auto
-HOST-SUFFIX,pixiv.net,JP_Auto
-HOST-SUFFIX,pixiv.org,JP_Auto
-HOST-SUFFIX,pximg.net,JP_Auto
+HOST-SUFFIX,pixiv.me,HK_Auto
+HOST-SUFFIX,pixiv.net,HK_Auto
+HOST-SUFFIX,pixiv.org,HK_Auto
+HOST-SUFFIX,pximg.net,HK_Auto
 
 # NAME: DMM
 # AUTHOR: blackmatrix7
