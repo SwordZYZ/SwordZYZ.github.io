@@ -11,3 +11,6 @@ HOST-SUFFIX,cctv.cn,direct
 
 # NAME: China Mobile
 HOST-SUFFIX,10086.cn,direct
+
+# NAME: DeepSeek
+HOST-SUFFIX,deepseek.com,direct
