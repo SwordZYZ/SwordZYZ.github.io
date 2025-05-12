@@ -88,3 +88,6 @@ HOST-SUFFIX,atlasacademy.io,JP_Auto
 
 # NAME: MELONBOOKS
 HOST-SUFFIX,melonbooks.co.jp,JP_Auto
+
+# NAME: ADBlock
+HOST-SUFFIX,im-x.jd.com,reject
