@@ -95,12 +95,13 @@
 
 
 
-hostname = -broadcast.chat.bilibili.com, -cm.bilibili.com, -*cdn*.biliapi.net, -*tracker*.biliapi.net, app.bilibili.com, api.live.bilibili.com, *.bilibili.com, *.bili*.*, *.bilibili.*, grpc.biliapi.net,*biliapi.net
+hostname = -broadcast.chat.bilibili.com, -cm.bilibili.com, -*cdn*.biliapi.net, -*tracker*.biliapi.net, app.bilibili.com, api.live.bilibili.com, *.bilibili.com, *.bilibili.*
+;grpc.biliapi.net, *biliapi.net , *.bili*.*
 
 
 # ======= BiliJson 播放页处理 ======= #
 # > BiliBili_哔哩哔哩_Version
-^https?:\/\/bilibili.2025.04.02/c136 url reject-200
+;^https?:\/\/bilibili.2025.04.02/c136 url reject-200
 # > BiliBili_哔哩哔哩_屏蔽广告浮窗@ddgksf2013
 ^https?:\/\/api\.bilibili\.com\/pgc\/activity\/deliver\/material\/receive url reject-dict
 # > BiliBili_哔哩哔哩_Material_Ad@ddgksf2013
