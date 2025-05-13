@@ -91,3 +91,4 @@ HOST-SUFFIX,melonbooks.co.jp,JP_Auto
 
 # NAME: ADBlock
 HOST-SUFFIX,im-x.jd.com,reject
+HOST-SUFFIX,atoken.m.taobao.com,reject
