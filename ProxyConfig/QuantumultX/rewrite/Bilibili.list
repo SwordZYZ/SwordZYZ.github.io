@@ -128,7 +128,7 @@ hostname = -broadcast.chat.bilibili.com, -cm.bilibili.com, -*cdn*.biliapi.net, -
 
 # ======= BiliJson Tab页处理 ======= #
 # > BiliBili_哔哩哔哩_屏蔽直播页顶部轮播图@ddgksf2013
-;^https?:\/\/api\.live\.bilibili\.com\/xlive\/app-interface\/v2\/index\/feed url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/bilibili_json.js
+^https?:\/\/api\.live\.bilibili\.com\/xlive\/app-interface\/v2\/index\/feed url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/bilibili_json.js
 # > BiliBili_哔哩哔哩_漫画去广告@ddgksf2013
 ^https?:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/(Flash|ListFlash|GetActivityTab) url reject-dict
 # > BiliBili_哔哩哔哩_推荐去广告@ddgksf2013
@@ -140,7 +140,7 @@ hostname = -broadcast.chat.bilibili.com, -cm.bilibili.com, -*cdn*.biliapi.net, -
 
 # ======= BiliJson 外观处理 ======= #
 # > BiliBili_哔哩哔哩_标签页处理@ddgksf2013
-^https?:\/\/app\.bilibili\.com\/x\/resource\/show\/tab url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/bilibili_json.js
+;^https?:\/\/app\.bilibili\.com\/x\/resource\/show\/tab url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/bilibili_json.js
 # > BiliBili_哔哩哔哩_我的页面处理@ddgksf2013
 ^https?:\/\/app\.bilibili\.com\/x\/v2\/account\/mine url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/bilibili_json.js
 # > BiliBili_哔哩哔哩_屏蔽首页右上活动@ddgksf2013
@@ -148,13 +148,13 @@ hostname = -broadcast.chat.bilibili.com, -cm.bilibili.com, -*cdn*.biliapi.net, -
 # > BiliBili_哔哩哔哩_热搜发现@ddgksf2013
 ^https://app.bilibili.com/x/v2/search/square url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/bilibili_json.js
 # > BiliBili_哔哩哔哩_填词@ddgksf2013
-;^https?:\/\/app\.bilibili\.com\/x\/v\d\/search\/defaultwords url reject-dict
+^https?:\/\/app\.bilibili\.com\/x\/v\d\/search\/defaultwords url reject-dict
 # > BiliBili_哔哩哔哩_屏蔽DefaultWord@ddgksf2013
 ^https?:\/\/(app\.bilibili\.com|grpc\.biliapi\.net)\/bilibili\.app\.interface\.v1\.Search\/Default url reject-200
 
 # ======= BiliProto 处理 ======= #
 # > BiliBili_哔哩哔哩_protobuf处理@kokoryh
-;^https:\/\/(?:grpc\.biliapi\.net|app\.bilibili\.com)\/bilibili\.(?:app\.(?:interface\.v1\.(?:Teenagers\/ModeStatus|Search\/DefaultWords)|show\.v1\.Popular\/Index|dynamic\.v2\.Dynamic\/DynAll|view(?:unite)?\.v1\.View\/(?:View|ViewProgress|TFInfo|RelatesFeed)|playurl\.v1\.PlayURL\/PlayView|playerunite\.v1\.Player\/PlayViewUnite)|polymer\.app\.search\.v1\.Search\/SearchAll|community\.service\.dm\.v1\.DM\/DmView|main\.community\.reply\.v1\.Reply\/MainList|pgc\.gateway\.player\.v2\.PlayURL\/PlayView) url script-response-body https://raw.githubusercontent.com/kokoryh/Sparkle/master/dist/bilibili.protobuf.js
+^https:\/\/(?:grpc\.biliapi\.net|app\.bilibili\.com)\/bilibili\.(?:app\.(?:interface\.v1\.(?:Teenagers\/ModeStatus|Search\/DefaultWords)|show\.v1\.Popular\/Index|dynamic\.v2\.Dynamic\/DynAll|view(?:unite)?\.v1\.View\/(?:View|ViewProgress|TFInfo|RelatesFeed)|playurl\.v1\.PlayURL\/PlayView|playerunite\.v1\.Player\/PlayViewUnite)|polymer\.app\.search\.v1\.Search\/SearchAll|community\.service\.dm\.v1\.DM\/DmView|main\.community\.reply\.v1\.Reply\/MainList|pgc\.gateway\.player\.v2\.PlayURL\/PlayView) url script-response-body https://raw.githubusercontent.com/kokoryh/Sparkle/master/dist/bilibili.protobuf.js
 
 
 # ======= BiliNotAdded ======= #
