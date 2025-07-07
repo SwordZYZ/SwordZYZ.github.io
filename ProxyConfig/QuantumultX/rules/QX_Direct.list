@@ -14,3 +14,7 @@ HOST-SUFFIX,10086.cn,direct
 
 # NAME: DeepSeek
 HOST-SUFFIX,deepseek.com,direct
+
+# NAME: WeChat
+HOST-SUFFIX, wxqcloud.qq.com.cn, direct
+HOST-SUFFIX, weixin.qq.com, direct
