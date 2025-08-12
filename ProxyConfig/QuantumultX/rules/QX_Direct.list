@@ -19,5 +19,8 @@ HOST-SUFFIX,deepseek.com,direct
 HOST-SUFFIX, wxqcloud.qq.com.cn, direct
 HOST-SUFFIX, weixin.qq.com, direct
 
+# NAME: QQ Mail
+HOST-SUFFIX, imap.qq.com, direct
+
 # NAME: WXZHBus
 HOST-SUFFIX, wxzhihuijiaotong.com, direct
