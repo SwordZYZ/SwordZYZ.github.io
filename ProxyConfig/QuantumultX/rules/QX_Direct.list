@@ -22,5 +22,9 @@ HOST-SUFFIX, weixin.qq.com, direct
 # NAME: QQ Mail
 HOST-SUFFIX, imap.qq.com, direct
 
+# NAME: Enterprise Mail
+HOST-SUFFIX, qiye.163.com, direct
+HOST-SUFFIX, cowork-storage-public-cdn.lx.netease.com, direct
+
 # NAME: WXZHBus
 HOST-SUFFIX, wxzhihuijiaotong.com, direct
