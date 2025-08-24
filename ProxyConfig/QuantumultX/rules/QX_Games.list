@@ -7,3 +7,6 @@ HOST-SUFFIX,game-gakuen-idolmaster.jp,Games
 # NAME: Yugioh Master Duel
 HOST-SUFFIX,konami.net,Games
 HOST-SUFFIX,applilink.jp,Games
+
+# NAME: Asphalt Legends
+HOST-SUFFIX,gameloft.com,Games
