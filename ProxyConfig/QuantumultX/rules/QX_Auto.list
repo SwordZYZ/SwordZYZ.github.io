@@ -79,8 +79,7 @@ USER-AGENT,Anime*,TW_Auto
 HOST-SUFFIX,mangafuna.xyz,HK_Auto
 
 # NAME: Kemono Party
-HOST-SUFFIX,kemono.su,HK_Auto
-HOST-SUFFIX,kemono.party,HK_Auto
+HOST-SUFFIX,kemono,HK_Auto
 
 # NAME: Fate/Grand Order
 HOST-SUFFIX,fate-go.jp,JP_Auto
@@ -94,3 +93,8 @@ HOST-SUFFIX,im-x.jd.com,reject
 HOST-SUFFIX,atoken.m.taobao.com,reject
 HOST-SUFFIX,img1.360buyimg.com,reject
 HOST-SUFFIX,adlog.tagtic.cn,reject
+
+# NAME: GROK
+HOST-SUFFIX,grok.com,OpenAI
+HOST-SUFFIX,groq.com,OpenAI
+HOST-SUFFIX,x.ai,OpenAI
