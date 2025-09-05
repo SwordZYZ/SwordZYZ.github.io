@@ -1,79 +1,11 @@
-# NAME: Pixiv
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-07 14:21:17
-# HOST-SUFFIX: 9
-# TOTAL: 9
-HOST-SUFFIX,ads-pixiv.net,HK_Auto
-HOST-SUFFIX,booth.pm,HK_Auto
-HOST-SUFFIX,fanbox.cc,HK_Auto
-HOST-SUFFIX,pixiv.cat,HK_Auto
-HOST-SUFFIX,pixiv.co.jp,JP_Auto
-HOST-SUFFIX,pixiv.me,HK_Auto
-HOST-SUFFIX,pixiv.net,HK_Auto
-HOST-SUFFIX,pixiv.org,HK_Auto
-HOST-SUFFIX,pximg.net,HK_Auto
-
-# NAME: DMM
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-07 14:22:22
-# HOST-SUFFIX: 28
-# IP-CIDR: 2
-# TOTAL: 30
-HOST-SUFFIX,akabeesoft2.com,JP_Auto
-HOST-SUFFIX,akabeesoft3.com,JP_Auto
-HOST-SUFFIX,akatsukiworks.com,JP_Auto
-HOST-SUFFIX,alicesoft.com,JP_Auto
-HOST-SUFFIX,api-p.videomarket.jp,JP_Auto
-HOST-SUFFIX,bluekai.com,JP_Auto
-HOST-SUFFIX,cosmiccute.com,JP_Auto
-HOST-SUFFIX,ddo.jp,JP_Auto
-HOST-SUFFIX,dmm-extension.com,JP_Auto
-HOST-SUFFIX,dmm.co.jp,JP_Auto
-HOST-SUFFIX,dmm.com,JP_Auto
-HOST-SUFFIX,dmm.hk,JP_Auto
-HOST-SUFFIX,dmmapis.com,JP_Auto
-HOST-SUFFIX,dmmrex.com,JP_Auto
-HOST-SUFFIX,fout.jp,JP_Auto
-HOST-SUFFIX,gmossp-sp.jp,JP_Auto
-HOST-SUFFIX,hibiki-site.com,JP_Auto
-HOST-SUFFIX,i-mobile.co.jp,JP_Auto
-HOST-SUFFIX,im-apps.net,JP_Auto
-HOST-SUFFIX,impact-ad.jp,JP_Auto
-HOST-SUFFIX,ladsp.com,JP_Auto
-HOST-SUFFIX,microad.co.jp,JP_Auto
-HOST-SUFFIX,microad.jp,JP_Auto
-HOST-SUFFIX,minori.ph,JP_Auto
-HOST-SUFFIX,navismithapis-cdn.com,JP_Auto
-HOST-SUFFIX,socdm.com,JP_Auto
-HOST-SUFFIX,tenco.cc,JP_Auto
-HOST-SUFFIX,wheel-soft.com,JP_Auto
-IP-CIDR,125.6.189.7/32,JP_Auto
-IP-CIDR,203.104.209.7/32,JP_Auto
-
 # NAME: DLsite
 HOST-SUFFIX,dlsite.jp,JP_Auto
 HOST-SUFFIX,dlsite.com,JP_Auto
 
 # NAME: JAVDB
-HOST-SUFFIX,javdb.com,HK
-
-# NAME: Bahamut
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-10-07 14:20:13
-# HOST-SUFFIX: 7
-# USER-AGENT: 1
-# TOTAL: 8
-HOST-SUFFIX,bahamut.akamaized.net,TW_Auto
-HOST-SUFFIX,bahamut.com.tw,TW_Auto
-HOST-SUFFIX,digicert.com,TW_Auto
-HOST-SUFFIX,gamer.com.tw,TW_Auto
-HOST-SUFFIX,gvt1.com,TW_Auto
-HOST-SUFFIX,hinet.net,TW_Auto
-HOST-SUFFIX,viblast.com,TW_Auto
-USER-AGENT,Anime*,TW_Auto
+HOST-SUFFIX,javdb.com,HK_Auto
+HOST-SUFFIX,c0.jdbstatic.com,HK_Auto
+HOST-SUFFIX,h.yunpai8.com,HK_Auto
 
 # NAME: Manga
 HOST-SUFFIX,mangafuna.xyz,HK_Auto
