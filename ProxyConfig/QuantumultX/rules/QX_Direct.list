@@ -15,16 +15,5 @@ HOST-SUFFIX,10086.cn,direct
 # NAME: DeepSeek
 HOST-SUFFIX,deepseek.com,direct
 
-# NAME: WeChat
-HOST-SUFFIX, wxqcloud.qq.com.cn, direct
-HOST-SUFFIX, weixin.qq.com, direct
-
-# NAME: Email
-HOST-SUFFIX, imap.qq.com, direct
-HOST-SUFFIX, stmp.qq.com, direct
-HOST-SUFFIX, imapmail.163.com, direct
-HOST-SUFFIX, imaphz.qiye.163.com, direct
-HOST-SUFFIX, cowork-storage-public-cdn.lx.netease.com, direct
-
 # NAME: WXZHBus
 HOST-SUFFIX, wxzhihuijiaotong.com, direct
