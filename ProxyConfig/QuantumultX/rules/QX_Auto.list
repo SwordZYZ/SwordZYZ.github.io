@@ -27,6 +27,6 @@ HOST-SUFFIX,img1.360buyimg.com,reject
 HOST-SUFFIX,adlog.tagtic.cn,reject
 
 # NAME: GROK
-HOST-SUFFIX,grok.com,OpenAI
-HOST-SUFFIX,groq.com,OpenAI
-HOST-SUFFIX,x.ai,OpenAI
+HOST-SUFFIX,grok.com,LLM
+HOST-SUFFIX,groq.com,LLM
+HOST-SUFFIX,x.ai,LLM
