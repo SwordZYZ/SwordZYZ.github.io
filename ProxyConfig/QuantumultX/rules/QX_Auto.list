@@ -30,3 +30,8 @@ HOST-SUFFIX,adlog.tagtic.cn,reject
 HOST-SUFFIX,grok.com,LLM
 HOST-SUFFIX,groq.com,LLM
 HOST-SUFFIX,x.ai,LLM
+
+# NAME: Bilibili PCDN Reject
+HOST-SUFFIX,mcdn.bilivideo.com,reject
+HOST-SUFFIX,mcdn.bilivideo.cn,reject
+HOST-SUFFIX,szbdyd.com,reject
