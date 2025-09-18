@@ -17,3 +17,6 @@ HOST-SUFFIX,deepseek.com,direct
 
 # NAME: WXZHBus
 HOST-SUFFIX, wxzhihuijiaotong.com, direct
+
+# NAME: 12306
+HOST-SUFFIX, 12306.cn, direct
