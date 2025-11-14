@@ -21,10 +21,10 @@ HOST-SUFFIX,atlasacademy.io,JP_Auto
 HOST-SUFFIX,melonbooks.co.jp,JP_Auto
 
 # NAME: ADBlock
-HOST-SUFFIX,im-x.jd.com,reject
-HOST-SUFFIX,atoken.m.taobao.com,reject
-HOST-SUFFIX,img1.360buyimg.com,reject
-HOST-SUFFIX,adlog.tagtic.cn,reject
+;HOST-SUFFIX,im-x.jd.com,reject
+;HOST-SUFFIX,atoken.m.taobao.com,reject
+;HOST-SUFFIX,img1.360buyimg.com,reject
+;HOST-SUFFIX,adlog.tagtic.cn,reject
 
 # NAME: GROK
 HOST-SUFFIX,grok.com,LLM
@@ -32,6 +32,6 @@ HOST-SUFFIX,groq.com,LLM
 HOST-SUFFIX,x.ai,LLM
 
 # NAME: Bilibili PCDN Reject
-HOST-SUFFIX,mcdn.bilivideo.com,reject
-HOST-SUFFIX,mcdn.bilivideo.cn,reject
-HOST-SUFFIX,szbdyd.com,reject
+;HOST-SUFFIX,mcdn.bilivideo.com,reject
+;HOST-SUFFIX,mcdn.bilivideo.cn,reject
+;HOST-SUFFIX,szbdyd.com,reject
