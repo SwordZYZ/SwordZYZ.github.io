@@ -1,0 +1,49 @@
+# NAME: 订阅链接
+DOMAIN-SUFFIX,wexgc.com,HK
+DOMAIN-SUFFIX,sub.id9.cc,HK
+DOMAIN-SUFFIX,sub.xeton.dev,HK
+DOMAIN-SUFFIX,sub-api.ohmy.cat,HK
+DOMAIN-SUFFIX,suo.yt,HK
+
+# NAME: Picture Search
+DOMAIN-SUFFIX,saucenao.com,HK
+DOMAIN-SUFFIX,iqdb.org,HK
+DOMAIN-SUFFIX,tineye.com,HK
+
+# NAME: DLsite
+DOMAIN-SUFFIX,dlsite.jp,JP
+DOMAIN-SUFFIX,dlsite.com,JP
+
+# NAME: JAVDB
+DOMAIN-SUFFIX,javdb.com,HK
+DOMAIN-SUFFIX,c0.jdbstatic.com,HK
+DOMAIN-SUFFIX,h.yunpai8.com,HK
+
+# NAME: Manga
+DOMAIN-SUFFIX,mangafuna.xyz,HK
+
+# NAME: Kemono Party
+DOMAIN-SUFFIX,kemono,HK
+
+# NAME: Fate/Grand Order
+DOMAIN-SUFFIX,fate-go.jp,JP
+DOMAIN-SUFFIX,atlasacademy.io,JP
+
+# NAME: MELONBOOKS
+DOMAIN-SUFFIX,melonbooks.co.jp,JP
+
+# NAME: ADBlock
+;DOMAIN-SUFFIX,im-x.jd.com,reject
+;DOMAIN-SUFFIX,atoken.m.taobao.com,reject
+;DOMAIN-SUFFIX,img1.360buyimg.com,reject
+;DOMAIN-SUFFIX,adlog.tagtic.cn,reject
+
+# NAME: GROK
+DOMAIN-SUFFIX,grok.com,LLM
+DOMAIN-SUFFIX,groq.com,LLM
+DOMAIN-SUFFIX,x.ai,LLM
+
+# NAME: Bilibili PCDN Reject
+DOMAIN-SUFFIX,mcdn.bilivideo.com,reject
+DOMAIN-SUFFIX,mcdn.bilivideo.cn,reject
+DOMAIN-SUFFIX,szbdyd.com,reject

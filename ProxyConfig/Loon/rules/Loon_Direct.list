@@ -1,0 +1,25 @@
+# NAME: Aliyun Yizhou
+DOMAIN-SUFFIX,siriscloudserver.top,DIRECT
+
+# NAME: Stage1
+DOMAIN-SUFFIX,saraba1st.com,DIRECT
+DOMAIN-SUFFIX,p.sda1.dev,DIRECT
+
+# NAME: T3GO
+DOMAIN-SUFFIX,metrics.t3go.cn,DIRECT
+
+# NAME: Yangshipin
+DOMAIN-SUFFIX,yangshipin.cn,DIRECT
+DOMAIN-SUFFIX,cctv.cn,DIRECT
+
+# NAME: China Mobile
+DOMAIN-SUFFIX,10086.cn,DIRECT
+
+# NAME: DeepSeek
+DOMAIN-SUFFIX,deepseek.com,DIRECT
+
+# NAME: WXZHBus
+DOMAIN-SUFFIX, wxzhihuijiaotong.com,DIRECT
+
+# NAME: 12306
+DOMAIN-SUFFIX, 12306.cn,DIRECT
