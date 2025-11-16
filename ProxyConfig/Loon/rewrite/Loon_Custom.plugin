@@ -1,12 +1,12 @@
 [Rewrite]
 # 谷歌域名重定向
-^https?:\/\/(ditu|maps).google\.cn 302 https://maps.google.com
-^https?:\/\/(www.)?(g|google)\.cn url 302 https://www.google.com
+^https?:\/\/(ditu|maps).google\.cn https://maps.google.com 302
+^https?:\/\/(www.)?(g|google)\.cn https://www.google.com 302
 
 # NGA重定向
-^https?:\/\/bbs\.nga\.cn 302 https://ngabbs.com
-^https?:\/\/nga\.178\.com 302 https://ngabbs.com
-^http:\/\/ngabbs\.com 302 https://ngabbs.com
+^https?:\/\/bbs\.nga\.cn https://ngabbs.com 302
+^https?:\/\/nga\.178\.com https://ngabbs.com 302
+^http:\/\/ngabbs\.com https://ngabbs.com 302
 
 ## 去广告
 # NGA去广告
