@@ -8,9 +8,11 @@
 ^https?:\/\/nga\.178\.com url 302 https://ngabbs.com
 ^http:\/\/ngabbs\.com url 302 https://ngabbs.com
 
-## 去广告
 # NGA去广告
 ^https:\/\/pgdt\.ugdtimg\.com url reject-dict
 ^https:\/\/g1\.tagtic\.cn url reject-dict
 
-hostname =  bbs.nga.cn, nga.178.com, google.cn, www.google.cn, ditu.google.cn, map.google.cn, www.g.cn, pgdt.ugdtimg.com, g1.tagtic.cn
+# 南+重定向
+^https?:\/\/(www|bbs)\.(south|north|spring|white)-plus\.(net|org) 302 https://www.south-plus.net
+
+hostname = bbs.nga.cn, nga.178.com, google.cn, www.google.cn, ditu.google.cn, map.google.cn, www.g.cn, south-plus.net, north-plus.net, spring-plus.net, white-plus.net, south-plus.org, north-plus.org, spring-plus.org, white-plus.org, pgdt.ugdtimg.com, g1.tagtic.cn
