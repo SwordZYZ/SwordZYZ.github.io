@@ -19,7 +19,7 @@
 ^https:\/\/g1\.tagtic\.cn - reject-dict
 
 # 南+重定向
-^https?:\/\/(?:(?:www|bbs)\.)?(south|north|spring|white)-plus\.(net|org) https://www.south-plus.net/ 302
+^https?:\/\/((www|bbs)\.)?(south|north|spring|white)-plus\.(net|org) https://south-plus.net/ 302
 
 [MitM]
 hostname = bbs.nga.cn, nga.178.com, google.cn, www.google.cn, ditu.google.cn, map.google.cn, www.g.cn, south-plus.net, north-plus.net, spring-plus.net, white-plus.net, south-plus.org, north-plus.org, spring-plus.org, white-plus.org, pgdt.ugdtimg.com, g1.tagtic.cn
