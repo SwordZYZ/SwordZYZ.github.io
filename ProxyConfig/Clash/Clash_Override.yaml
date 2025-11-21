@@ -104,6 +104,20 @@ proxy-groups:
       - KR_Auto
       - Manual
       - DIRECT
+  - name: GitHub
+    icon: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/icon/qure/color/GitHub.png
+    type: select
+    proxies:
+      - ProxySelect
+      - AutoSelect
+      - SG_Auto
+      - HK_Auto
+      - TW_Auto
+      - JP_Auto
+      - US_Auto
+      - KR_Auto
+      - Manual
+      - DIRECT
   - name: Netflix
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
     type: select
@@ -326,6 +340,7 @@ proxy-groups:
       - YouTube
       - Telegram
       - Discord
+      - GitHub
       - Netflix
       - GoogleFCM
       - Bing
@@ -451,6 +466,13 @@ rule-providers:
   Discord:
     url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Discord/Discord.list
     path: ./ruleset/Discord.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  GitHub:
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GitHub/GitHub.list
+    path: ./ruleset/GitHub.list
     behavior: classical
     interval: 86400
     format: text
@@ -597,6 +619,8 @@ rules:
   - "RULE-SET,AppleMusic,AppleMusic"
   - "RULE-SET,Apple,Apple"
   - "RULE-SET,Telegram,Telegram"
+  - "RULE-SET,Discord,Discord"
+  - "RULE-SET,GitHub,GitHub"
   - "RULE-SET,OpenAi,LLM"
   - "RULE-SET,NetEaseMusic,NetEaseMusic"
   - "RULE-SET,Epic,Game"
