@@ -1,3 +1,7 @@
+# NAME: TempRules
+HOST,play.google.com,LLM
+HOST-SUFFIX,clients6.google.com,LLM
+
 # NAME: DLsite
 HOST-SUFFIX,dlsite.jp,JP_Auto
 HOST-SUFFIX,dlsite.com,JP_Auto
