@@ -1,3 +1,7 @@
+# NAME: TempRules
+DOMAIN,play.google.com,LLM
+DOMAIN-SUFFIX,clients6.google.com,LLM
+
 # NAME: 订阅链接
 DOMAIN-SUFFIX,wexgc.com,HK
 DOMAIN-SUFFIX,sub.id9.cc,HK
