@@ -13,6 +13,6 @@
 ^https:\/\/g1\.tagtic\.cn url reject-dict
 
 # 南+重定向
-^https?:\/\/((www|bbs)\.)?(north|spring|white)-plus\.(net|org)\/(.*) 302 https://south-plus.net/$4
+^https?:\/\/(?:(?:www|bbs)\.)?(?:north|spring|white)-plus\.(?:net|org)\/(.*) url 302 https://south-plus.net/$1
 
 hostname = bbs.nga.cn, nga.178.com, google.cn, www.google.cn, ditu.google.cn, map.google.cn, www.g.cn, *.north-plus.net, *.spring-plus.net, *.white-plus.net, *.north-plus.org, *.spring-plus.org, *.white-plus.org, north-plus.net, spring-plus.net, white-plus.net, pgdt.ugdtimg.com, g1.tagtic.cn
