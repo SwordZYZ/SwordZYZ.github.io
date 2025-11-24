@@ -2,24 +2,24 @@
 DOMAIN-SUFFIX,siriscloudserver.top,DIRECT
 
 # NAME: Stage1
-DOMAIN-SUFFIX,saraba1st.com,DIRECT
-DOMAIN-SUFFIX,p.sda1.dev,DIRECT
+DOMAIN-SUFFIX,saraba1st.com
+DOMAIN-SUFFIX,p.sda1.dev
 
 # NAME: T3GO
-DOMAIN-SUFFIX,metrics.t3go.cn,DIRECT
+DOMAIN-SUFFIX,metrics.t3go.cn
 
 # NAME: Yangshipin
-DOMAIN-SUFFIX,yangshipin.cn,DIRECT
-DOMAIN-SUFFIX,cctv.cn,DIRECT
+DOMAIN-SUFFIX,yangshipin.cn
+DOMAIN-SUFFIX,cctv.cn
 
 # NAME: China Mobile
-DOMAIN-SUFFIX,10086.cn,DIRECT
+DOMAIN-SUFFIX,10086.cn
 
 # NAME: DeepSeek
-DOMAIN-SUFFIX,deepseek.com,DIRECT
+DOMAIN-SUFFIX,deepseek.com
 
 # NAME: WXZHBus
-DOMAIN-SUFFIX, wxzhihuijiaotong.com,DIRECT
+DOMAIN-SUFFIX, wxzhihuijiaotong.com
 
 # NAME: 12306
-DOMAIN-SUFFIX, 12306.cn,DIRECT
+DOMAIN-SUFFIX, 12306.cn

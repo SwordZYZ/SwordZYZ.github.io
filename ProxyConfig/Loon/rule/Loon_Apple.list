@@ -6,6 +6,6 @@
 # IP-CIDR: 0
 # TOTAL: 3
 
-DOMAIN-SUFFIX,ls.apple.com,Apple
-DOMAIN-SUFFIX,smoot.apple.com,Apple
-DOMAIN-SUFFIX,time.apple.com,Apple
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,time.apple.com
