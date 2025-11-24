@@ -5,6 +5,7 @@ HOST-SUFFIX,clients6.google.com,LLM
 # NAME: DLsite
 HOST-SUFFIX,dlsite.jp,JP_Auto
 HOST-SUFFIX,dlsite.com,JP_Auto
+HOST-SUFFIX,shinobi.jp,JP_Auto
 
 # NAME: JAVDB
 HOST-SUFFIX,javdb.com,HK_Auto
