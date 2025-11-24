@@ -38,10 +38,10 @@ DOMAIN-SUFFIX,atlasacademy.io,JP
 DOMAIN-SUFFIX,melonbooks.co.jp,JP
 
 # NAME: ADBlock
-;DOMAIN-SUFFIX,im-x.jd.com,reject
-;DOMAIN-SUFFIX,atoken.m.taobao.com,reject
-;DOMAIN-SUFFIX,img1.360buyimg.com,reject
-;DOMAIN-SUFFIX,adlog.tagtic.cn,reject
+;DOMAIN-SUFFIX,im-x.jd.com,REJECT
+;DOMAIN-SUFFIX,atoken.m.taobao.com,REJECT
+;DOMAIN-SUFFIX,img1.360buyimg.com,REJECT
+;DOMAIN-SUFFIX,adlog.tagtic.cn,REJECT
 
 # NAME: GROK
 DOMAIN-SUFFIX,grok.com,LLM
@@ -49,6 +49,6 @@ DOMAIN-SUFFIX,groq.com,LLM
 DOMAIN-SUFFIX,x.ai,LLM
 
 # NAME: Bilibili PCDN Reject
-DOMAIN-SUFFIX,mcdn.bilivideo.com,reject
-DOMAIN-SUFFIX,mcdn.bilivideo.cn,reject
-DOMAIN-SUFFIX,szbdyd.com,reject
+DOMAIN-SUFFIX,mcdn.bilivideo.com,REJECT
+DOMAIN-SUFFIX,mcdn.bilivideo.cn,REJECT
+DOMAIN-SUFFIX,szbdyd.com,REJECT
