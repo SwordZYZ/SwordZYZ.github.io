@@ -17,6 +17,7 @@
 # NGA去广告
 ^https:\/\/pgdt\.ugdtimg\.com - reject-dict
 ^https:\/\/g1\.tagtic\.cn - reject-dict
+^https:\/\/adlog\.tagtic\.cn - reject-dict
 
 # 南+重定向
 ^https?:\/\/(?:(?:www|bbs)\.)?(?:north|spring|white)-plus\.(?:net|org)\/(.*) https://south-plus.net/$1 302
