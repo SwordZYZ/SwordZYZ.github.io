@@ -2,7 +2,6 @@
 ;DOMAIN-SUFFIX,im-x.jd.com
 ;DOMAIN-SUFFIX,atoken.m.taobao.com
 ;DOMAIN-SUFFIX,img1.360buyimg.com
-;DOMAIN-SUFFIX,adlog.tagtic.cn
 
 # NAME: Bilibili PCDN Reject
 DOMAIN-SUFFIX,mcdn.bilivideo.com
