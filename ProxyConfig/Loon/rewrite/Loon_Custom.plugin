@@ -15,13 +15,16 @@
 ^http:\/\/ngabbs\.com https://ngabbs.com 302
 
 # NGA去广告
-^https:\/\/pgdt\.ugdtimg\.com - reject-dict
-^https:\/\/g1\.tagtic\.cn - reject-dict
-^https:\/\/adlog\.tagtic\.cn - reject-dict
+^https:\/\/pgdt\.ugdtimg\.com - reject-200
+^https:\/\/g1\.tagtic\.cn - reject-200
+^https:\/\/adlog\.tagtic\.cn - reject-200
 
 # 南+重定向
 ^https?:\/\/(?:(?:www|bbs)\.)?(?:north|spring|white)-plus\.(?:net|org)\/(.*) https://south-plus.net/$1 302
 
+# 天天基金去广告
+^https?:\/\/j5\.dfcfw\.com\/WG\/conf\/202[0-9]{5}/.*.(jpg|png) - reject-200
+
 [MitM]
-hostname = bbs.nga.cn, nga.178.com, google.cn, www.google.cn, ditu.google.cn, map.google.cn, www.g.cn, *.north-plus.net, *.spring-plus.net, *.white-plus.net, *.north-plus.org, *.spring-plus.org, *.white-plus.org, north-plus.net, spring-plus.net, white-plus.net, pgdt.ugdtimg.com, *.tagtic.cn
+hostname = bbs.nga.cn, nga.178.com, google.cn, www.google.cn, ditu.google.cn, map.google.cn, www.g.cn, *.north-plus.net, *.spring-plus.net, *.white-plus.net, *.north-plus.org, *.spring-plus.org, *.white-plus.org, north-plus.net, spring-plus.net, white-plus.net, pgdt.ugdtimg.com, *.tagtic.cn, j5.dfcfw.com
 h2 = true
